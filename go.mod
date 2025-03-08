@@ -1,4 +1,4 @@
-module github.com/yinghaowuzhanbai/receipt-processor-challenge
+module github.com/yinghaowuzhanbai/reciept-processor
 
 go 1.22.4
 
